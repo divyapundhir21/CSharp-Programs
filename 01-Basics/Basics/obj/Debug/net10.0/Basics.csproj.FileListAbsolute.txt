@@ -1,0 +1,15 @@
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.AssemblyInfoInputs.cache
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.AssemblyInfo.cs
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.csproj.CoreCompileInputs.cache
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.sourcelink.json
+D:\Github\CSharp-Programs\01-Basics\Basics\bin\Debug\net10.0\Basics.exe
+D:\Github\CSharp-Programs\01-Basics\Basics\bin\Debug\net10.0\Basics.deps.json
+D:\Github\CSharp-Programs\01-Basics\Basics\bin\Debug\net10.0\Basics.runtimeconfig.json
+D:\Github\CSharp-Programs\01-Basics\Basics\bin\Debug\net10.0\Basics.dll
+D:\Github\CSharp-Programs\01-Basics\Basics\bin\Debug\net10.0\Basics.pdb
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.dll
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\refint\Basics.dll
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.pdb
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\Basics.genruntimeconfig.cache
+D:\Github\CSharp-Programs\01-Basics\Basics\obj\Debug\net10.0\ref\Basics.dll
