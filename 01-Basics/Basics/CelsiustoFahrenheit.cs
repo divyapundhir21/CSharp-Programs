@@ -1,0 +1,24 @@
+/*
+Problem: Celsius to Fahrenheit
+
+Input:
+
+Output:
+
+*/
+using System;
+
+namespace CSharpPrograms
+{
+    internal class CelsiustoFahrenheit
+    {
+        public static void Run()
+        {
+            Console.Write("Enter temperature in Celsius: ");
+            double celsius = Convert.ToDouble(Console.ReadLine());
+            double fahrenheit = (celsius * 9 / 5) + 32;
+
+            Console.WriteLine($"Temperature in Fahrenheit: {fahrenheit}");
+        }
+    }
+}
