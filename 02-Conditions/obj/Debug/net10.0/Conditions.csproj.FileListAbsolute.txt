@@ -1,0 +1,15 @@
+D:\Github\CSharp-Programs\02-Conditions\bin\Debug\net10.0\Conditions.exe
+D:\Github\CSharp-Programs\02-Conditions\bin\Debug\net10.0\Conditions.deps.json
+D:\Github\CSharp-Programs\02-Conditions\bin\Debug\net10.0\Conditions.runtimeconfig.json
+D:\Github\CSharp-Programs\02-Conditions\bin\Debug\net10.0\Conditions.dll
+D:\Github\CSharp-Programs\02-Conditions\bin\Debug\net10.0\Conditions.pdb
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.AssemblyInfoInputs.cache
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.AssemblyInfo.cs
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.csproj.CoreCompileInputs.cache
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.sourcelink.json
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.dll
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\refint\Conditions.dll
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.pdb
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\Conditions.genruntimeconfig.cache
+D:\Github\CSharp-Programs\02-Conditions\obj\Debug\net10.0\ref\Conditions.dll
