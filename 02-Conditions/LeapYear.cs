@@ -1,15 +1,12 @@
 /*
-Problem:
+Problem: Check if the year is the leap year
 
-Input:
+Input:1901
 
-Output:
+Output: Not a leap year
 
-Approach:
+Approach: A year is a leap year if it is divisible by 400, or if it is divisible by 4 but not divisible by 100. This handles century years correctly because years like 1900 are divisible by 100 but not by 400, so they are not leap years, while years like 2000 are divisible by 400 and therefore are leap years.
 
-Time Complexity:
-
-Space Complexity:
 */
 using System;
 
