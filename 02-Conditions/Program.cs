@@ -6,7 +6,7 @@ namespace CSharpPrograms
     {
         static void Main(string[] args)
         {
-            VotingEligibility.Run();
+            PositiveNegativeOrZero.Run();
         }
     }
 }

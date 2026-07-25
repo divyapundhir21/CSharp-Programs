@@ -27,7 +27,7 @@ namespace CSharpPrograms
 {
     internal class VotingEligibility
     {
-        static void Main(string[] args)
+        public static void Run()
         {
             Console.Write("Enter your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
