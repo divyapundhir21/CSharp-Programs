@@ -6,7 +6,7 @@ namespace CSharpPrograms
     {
         static void Main(string[] args)
         {
-            EvenOrOdd.Run();
+            DivisibleBy5And11.Run();
         }
     }
 }
