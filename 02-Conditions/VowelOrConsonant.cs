@@ -31,7 +31,15 @@ namespace CSharpPrograms
         public static void Run()
         {
             Console.Write("Enter an alphabet: ");
-            char ch = Convert.ToChar(Console.ReadLine().ToLower());
+            string input = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(input) || input.Length != 1)
+            {
+                Console.WriteLine("Please enter a single alphabet.");
+                return;
+            }
+
+            char ch = char.ToLower(input[0]);
 
             if (!char.IsLetter(ch))
             {
